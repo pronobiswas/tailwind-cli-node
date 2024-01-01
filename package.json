@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "nodejs-tailwind-cli": "^1.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
   }
 }
